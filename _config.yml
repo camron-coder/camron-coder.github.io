@@ -4,6 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   <br>Im just a guy learing how to make games to one day be able to make my own company.<br>
   <a href="https://www.linkedin.com/in/camron-anderson-906027201/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-midnight
+ remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
