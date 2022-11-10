@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Camron Anderson # your name (or website title) here
+logo: "https://th.bing.com/th/id/R.b7e1f988e9ebf3e91217541e267e971a?rik=XidZqgJMKeMgHQ&pid=ImgRaw&r=0" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>Im just a guy learing how to make games to one day be able to make my own company.<br>
+  <a href="https://www.linkedin.com/in/camron-anderson-906027201/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
