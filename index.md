@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Adventure game](/sample_page)
-<img src="https://photos.google.com/photo/AF1QipMW7NB-JNYpsIPku-5foZN5_3w_LzUgTxZug3mi"/>
+<img src="https://photos.app.goo.gl/Sb9DbYu3Xsy4VUzb6"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
